@@ -1,1 +1,0 @@
-ALTER TABLE  `engine4_core_menuitems` CHANGE  `label`  `label` VARCHAR( 64 ) NOT NULL;
